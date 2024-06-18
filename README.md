@@ -1,5 +1,5 @@
 # Sleeping_Pattern_Predict_Project
-
+![표지](https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC1.png?raw=true)
 
 [Subject]
 - Bio-signal Analysis from Wearable Device
@@ -22,6 +22,12 @@
 - App : by Swift, Xcode
 
 
+
+![비즈니스](https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC2.png?raw=true)
+
+![플로우](https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC3.png?raw=true)
+
+![비전](https://github.com/KeonhoChu/SleepingProject/blob/main/%EA%B7%B8%EB%A6%BC4.png?raw=true)
 
 
 
