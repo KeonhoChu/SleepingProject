@@ -1,6 +1,5 @@
 # Sleeping_Pattern_Predict_Project
 
-수정중 
 
 [Subject]
 - Bio-signal Analysis from Wearable Device
@@ -11,7 +10,7 @@
 - Integrating IoT devices on the App to Operate in Conjunction with User's Personalized Wake-up Time
 
 [Program Languages]
-- Python, SQL
+- Python, MYSQL
 
 [Idea] 
 - The Sleeping Stages Cycle Order is divided into N1, N2, N3, N2, and REM Each cycle lasts around 90–110 minutes
@@ -19,10 +18,9 @@
 
 [Service]
 - Service Title: Lite-Right
-- Polit Web: (Ongoing) by Streamlit
-- App : (Ongoing) by Swift, Xcode
-- 
-[Contributors] Heejung Lim, Jiwon Park, Kunho Chu, Sujung Lee
+- Polit Web: by Streamlit
+- App : by Swift, Xcode
+
 
 
 
